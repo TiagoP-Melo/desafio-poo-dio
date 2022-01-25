@@ -35,7 +35,7 @@ public class Main {
         bootcamp.getConteudos().add(curso2);
         bootcamp.getConteudos().add(mentoria);
 
-        System.out.println("--------------------------------");
+        System.out.println("----------------------------------------");
 
         Dev devTiago = new Dev();
         devTiago.setName("Tiago Portella");
